@@ -2,6 +2,8 @@ README.md
 pyproject.toml
 setup.cfg
 setup.py
+src/components/__init__.py
+src/components/model_evaluation.py
 src/database_automation/__init__.py
 src/database_automation/mongo_crud.py
 src/databaseautomation.egg-info/PKG-INFO
@@ -9,3 +11,6 @@ src/databaseautomation.egg-info/SOURCES.txt
 src/databaseautomation.egg-info/dependency_links.txt
 src/databaseautomation.egg-info/requires.txt
 src/databaseautomation.egg-info/top_level.txt
+src/pipeline/__init__.py
+src/pipeline/prediction_pipeline.py
+src/pipeline/training_pipeline.py

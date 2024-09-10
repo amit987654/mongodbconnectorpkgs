@@ -1,1 +1,3 @@
+components
 database_automation
+pipeline

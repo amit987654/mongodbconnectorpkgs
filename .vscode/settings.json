@@ -2,7 +2,12 @@
   "workbench.colorTheme": "Default Dark+",
   "workbench.preferredDarkColorTheme": "Default Dark+",
   "task.allowAutomaticTasks": "on",
+"files.exclude": {
+    "**/.venv": true
+},
   "workbench.editorAssociations": {
     "*.md": "vscode.markdown.preview.editor"
-  }
+  },
+  "workbench.settings.editor": "json",
+  "explorer.excludeGitIgnore": true
 }
